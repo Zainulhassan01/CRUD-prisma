@@ -1,0 +1,26 @@
+{
+  "name": "crud-with-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Zainulhassan01/CRUD-prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zainulhassan01/CRUD-prisma/issues"
+  },
+  "homepage": "https://github.com/Zainulhassan01/CRUD-prisma#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-list-endpoints": "^6.0.0",
+    "prisma": "^4.15.0"
+  }
+}
